@@ -63,7 +63,7 @@ Enter the value of k (number of cluster): 6
 
 [105. 212. 228.]]
 
-
+___________________________________________________
 
 [[135. 129. 134.]
 
@@ -209,6 +209,8 @@ ______________________________________________
 [ 32. 27. 28.]]
 
 (These are cluster centers for K=6)
+
+![alt text](https://github.com/Zobaer/K_means_clustering/blob/main/Clustered_image.png)
 
 
 
